@@ -49,7 +49,7 @@ correct = "correct" if filename.rfind(label) != -1 else "incorrect"
 label = "{}: {:.2f}% ({})".format(label, proba[idx] * 100, correct)
 output = imutils.resize(output, width=400)
 cv2.putText(output, label, (10, 25),  cv2.FONT_HERSHEY_SIMPLEX,
-	0.7, (0, 255, 0), 2)
+	0.7, (18, 255, 136), 2)
 # show the output image
 print("[INFO] {}".format(label))
 cv2.imshow("Output", output)

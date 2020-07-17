@@ -1,9 +1,6 @@
 # USAGE
-# python search_bing_api.py --query "charmander" --output dataset/charmander
-# python search_bing_api.py --query "pikachu" --output dataset/pikachu
-# python search_bing_api.py --query "squirtle" --output dataset/squirtle
-# python search_bing_api.py --query "bulbasaur" --output dataset/bulbasaur
-# python search_bing_api.py --query "mewtwo" --output dataset/mewtwo
+# python search_bing_api.py --query "cascabela flower" --output dataset/cascabela
+
 
 # import the necessary packages
 from requests import exceptions

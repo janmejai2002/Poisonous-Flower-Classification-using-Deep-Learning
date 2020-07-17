@@ -12,7 +12,7 @@ class MobilenetV2_adv:
         x = mobile.output
         x = Flatten(name = "flatten")(x)
         x = Dropout(0.5)(x)
-        x = Dense(5, activation = 'softmax')(x)
+        x = Dense(classes, activation = 'softmax')(x)
 
         model = Model(inputs=mobile.input, outputs = x)
 
