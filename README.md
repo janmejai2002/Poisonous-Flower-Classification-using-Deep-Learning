@@ -27,7 +27,7 @@ Run the following command
 
         git clone https://github.com/janmejai2002/Poisonous-Flower-Classification-using-Deep-Learning.git
 
-(For windows users please not this will only run if you have git utilities installed for cmd. If this does not work use the default shell git provides)
+(For windows users this will only run if you have git utilities installed for cmd. If this does not work use the default shell git provides)
 
 I am using `python=3.7` and the other dependencies are inside `requirements.txt` .
 
@@ -60,7 +60,7 @@ To setup your environment run the follwing code below after creating a new envir
 
 ## Working
 
-I collected the dataset using Bing Image Search API. I learnt about that from [Here]('https://www.pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/')
+I collected the dataset using Bing Image Search API. I learnt about that from [Here](https://www.pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/)
 
 The Bing Image API really makes it quite easy to get small datasets. If you want to skip the above article here are the steps you will have to do to make your own dataset.
 
