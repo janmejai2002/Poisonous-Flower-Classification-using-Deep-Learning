@@ -1,7 +1,5 @@
 # USAGE
 # python search_bing_api.py --query "cascabela flower" --output dataset/cascabela
-
-
 # import the necessary packages
 from requests import exceptions
 import argparse
@@ -17,10 +15,8 @@ ap.add_argument("-o", "--output", required=True,
 	help="path to output directory of images")
 args = vars(ap.parse_args())
 
-# set your Microsoft Cognitive Services API key along with (1) the
-# maximum number of results for a given search and (2) the group size
-# for results (maximum of 50 per request)
-API_KEY = # YOUR API KEY
+
+API_KEY = #your api key
 MAX_RESULTS = 250
 GROUP_SIZE = 50
 
