@@ -13,8 +13,7 @@ The aim of this project is to use Deep Learning to classify the image of a flowe
 
 3. [__Datura__](https://en.wikipedia.org/wiki/Datura#:~:text=All%20species%20of%20Datura%20are,even%20death%20if%20taken%20internally.)
 
-4. [__Hemlock or Conium maculatum__]
-[![](https://github.com/janmejai2002/Poisonous-Flower-Classification-using-Deep-Learning/blob/master/dataset/hemlock/00000000.jpg "Hemlock")](https://en.wikipedia.org/wiki/Conium_maculatum)
+4. [__Hemlock or Conium maculatum__](https://en.wikipedia.org/wiki/Conium_maculatum)
 
 5. [__Nerium oleander__](https://en.wikipedia.org/wiki/Nerium#Toxicity)
 
