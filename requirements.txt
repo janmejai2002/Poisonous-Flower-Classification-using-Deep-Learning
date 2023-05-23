@@ -1,5 +1,5 @@
 imutils==0.5.3
-requests==2.24.0
+requests==2.31.0
 opencv_python==4.2.0.34
 tensorflow==2.5.0
 matplotlib==3.2.2
